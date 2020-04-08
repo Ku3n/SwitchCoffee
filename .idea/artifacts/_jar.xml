@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="转换咖啡:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_jar</output-path>
+    <root id="archive" name="转换咖啡.jar">
+      <element id="module-output" name="转换咖啡" />
+      <element id="module-source" name="转换咖啡" />
+      <element id="dir-copy" path="$PROJECT_DIR$" />
+    </root>
+  </artifact>
+</component>
